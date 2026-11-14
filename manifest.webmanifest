@@ -1,0 +1,17 @@
+{
+  "name": "Woodshed — Jazz Vocal Practice",
+  "short_name": "Woodshed",
+  "description": "A jazz vocal practice room: live pitch analysis, exercises, standards with accompaniment, and progress tracking. Your data stays on your device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e131d",
+  "theme_color": "#0e131d",
+  "orientation": "any",
+  "categories": ["music", "education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
